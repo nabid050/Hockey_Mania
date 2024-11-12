@@ -60,4 +60,13 @@
         border-radius: 10px;
         background-repeat: no-repeat;
     }
+    .product-card{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .icon-items{
+        margin-left: 50px;
+    }
   }
